@@ -24,6 +24,28 @@ A opção "Imprimir" permite que você imprima a árvore binária horizontalment
 
 Certifique-se de que você tenha o Java instalado em seu sistema para executar este projeto.
 
+## Requisitos do trabalho
+
+### 1. Inserção: 
+
+Inserir os valores por código ou input de acordo com as regras da ABB.
+
+### 2. Busca: 
+
+Buscar o valor informado por código ou input e retornar verdadeiro caso o valor seja
+encontrado e falso caso não seja.
+
+### 3. Remoção: 
+
+Remover o valor informado por código ou input (caso exista), imprimir feedback
+de remoção com o valor que foi removido, e retornar o nó raiz.
+
+### 4. Impressão: 
+
+Imprimir os valores no formato de árvore no console. Pode ser na horizontal e
+vertical. Essa função pode ser copiada da internet, apesar de que provavelmente precisará
+ser adaptada para o seu código.
+
 ## Exemplo de Uso
 
 Aqui está um exemplo de como usar o programa:
