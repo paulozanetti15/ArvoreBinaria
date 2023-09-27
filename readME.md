@@ -84,4 +84,7 @@ Obrigado por usar a Árvore Binária Não Balanceada!
 
 ## Conclusão
 
-Este projeto oferece uma implementação básica de uma Árvore Binária Não Balanceada em Java com operações fundamentais. Sinta-se à vontade para expandir e melhorar o projeto conforme necessário. Divirta-se explorando e aprendendo sobre árvores binárias!
+
+O projeto de implementação de uma Árvore Binária Não Balanceada em Java apresenta uma abordagem clara e funcional para a manipulação de elementos em uma árvore binária. As funcionalidades de inserção, busca, remoção e impressão foram desenvolvidas de forma a atender aos requisitos do trabalho, proporcionando interatividade ao usuário por meio de um menu de console.
+
+A funcionalidade de inserção permite ao usuário adicionar novos elementos na árvore binária, seguindo as regras adequadas para manter a estrutura de uma Árvore Binária de Busca (ABB). A busca possibilita encontrar um valor desejado dentro da árvore e fornece um feedback sobre sua existência. A remoção, por sua vez, permite que o usuário remova um valor especificado, mantendo a integridade da árvore e fornecendo informações sobre a operação realizada. Por fim, a funcionalidade de impressão proporciona uma visualização clara da árvore no console, seja na forma horizontal, facilitando a compreensão da estrutura.
