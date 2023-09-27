@@ -1,5 +1,6 @@
 # Projeto Árvore Binária Não Balanceada em Java
 
+
 Este é um projeto Java que implementa uma Árvore Binária Não Balanceada com um menu de console que oferece quatro operações principais: Inserir, Buscar, Remover e Imprimir.
 
 ## Funcionalidades
