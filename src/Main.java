@@ -34,7 +34,7 @@ public class Main {
                     break;
                 case 4:
                     System.out.println("Árvore:");
-                    arvore.imprimirArvoreVertical();
+                    arvore.imprimirArvoreHorizontal();
                     break;
                 case 5:
                     scanner.close();

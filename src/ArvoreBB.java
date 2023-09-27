@@ -93,15 +93,15 @@ public class ArvoreBB {
         return menorValor;
     }
 
-    public void imprimirArvoreVertical() {
-        imprimirArvoreVerticalRec(raiz, "");
+    public void imprimirArvoreHorizontal() {
+        imprimirArvoreHorizontalRec(raiz, "");
     }
 
-    private void imprimirArvoreVerticalRec(No raiz, String espacamento) {
+    private void imprimirArvoreHorizontalRec(No raiz, String espacamento) {
         if (raiz != null) {
-            imprimirArvoreVerticalRec(raiz.direita, espacamento + "    ");
+            imprimirArvoreHorizontalRec(raiz.direita, espacamento + "    ");
             System.out.println(espacamento + raiz.dado);
-            imprimirArvoreVerticalRec(raiz.esquerda, espacamento + "    ");
+            imprimirArvoreHorizontalRec(raiz.esquerda, espacamento + "    ");
         }
     }
 }
